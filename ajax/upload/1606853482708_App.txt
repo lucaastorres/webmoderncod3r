@@ -1,0 +1,13 @@
+Base: Criar uma plataforma que conecte empresas, usuários e causas sociais.
+
+Contexto: As causas sociais serão apresentadas na plataforma em busca de adeptos e
+empresas se unirão com o objetivo de ajudar.
+
+- Usuários poderão se unir e debater as alternativas de ajuda para a causa opinando.
+- As empresas que contribuem com a evolução do projeto serão destacadas e receberão feedback
+assim propagando a sua responsabilidade no mercado e entre seus concorrentes.
+- As causas sociais serão benefíciadas e terão a oportunidade de mostrar o esforço feito pelos
+usuários e empresas que contribuindo, mostrando os resultados.
+- Os usuários devem sempre obter um retorno da sua ajuda, sempre merecem ser destacados pelo apoio.
+
+- A comunidade evolue quando se está unida. 

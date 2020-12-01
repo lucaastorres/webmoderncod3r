@@ -19,7 +19,7 @@
                 if(xhr.status === 200) {
                     config.sucesso(xhr.response)
                 } else if (xhr.status >= 400) {
-                    confir.erro({
+                    config.erro({
                         codigo: xhr.status,
                         texto: xhr.statusText
                     })
